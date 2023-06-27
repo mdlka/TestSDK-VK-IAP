@@ -1,0 +1,29 @@
+[
+    {
+        "ru_title": "Предмет 1",
+        "en_title": "Item 1",
+        "photo_url": "raw.githubusercontent.com/mdlka/TestSDK-VK-IAP/main/Icons/Item1.png",
+        "item_id": "item1",
+        "price": 1,
+        "discount": 0,
+        "expiration": 3600
+    },
+    {
+        "ru_title": "Предмет 2",
+        "en_title": "Item 2",
+        "photo_url": "raw.githubusercontent.com/mdlka/TestSDK-VK-IAP/main/Icons/Item2.png",
+        "item_id": "item2",
+        "price": 2,
+        "discount": 0,
+        "expiration": 3600
+    },
+    {
+        "ru_title": "Предмет 3",
+        "en_title": "Item 3",
+        "photo_url": "raw.githubusercontent.com/mdlka/TestSDK-VK-IAP/main/Icons/Item3.png",
+        "item_id": "item3",
+        "price": 3,
+        "discount": 1,
+        "expiration": 3600
+    }
+]
